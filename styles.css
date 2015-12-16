@@ -1,0 +1,31 @@
+p{
+	font-family:sans-serif;
+	color:#0000FF;
+}
+#awesomeText {font-family:'Times New Roman', Georgia, Serif;}
+.soft {color:#a8a8a8}
+.center {text-align:center;}
+.container {margin:0 auto:;}
+#fampic{text-align: center;}
+h1{text-align: center;}
+li{display: inline; padding: 13; text-align: center;}
+ul li a:hover
+{
+color: #fff;
+background-color: #369;
+}
+ul{text-align: center;}
+table td {
+    background: #3398cc none repeat scroll 0 0;
+    border-left: 1px solid rgba(214, 235, 245, 0.25);
+    color: #fff;
+    font-size: 15;
+    font-weight: 400;
+    padding: 17px;
+}
+th {
+	font-size: 17;
+}
+.tableHead td{
+	font-size: 19;
+}
